@@ -6,7 +6,7 @@
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
+gh repo clone Ayan022000/NLP-sentiment-analysis
 ```
 
 Step 2: Open the cloned repository and create a conda environment. Activate the new environment
